@@ -1,2 +1,9 @@
-# Final-3d-scene
-3d Ice cream cone scene
+Project Reflection
+How do I approach designing software?
+This project helped me see that I design software best when I break a big idea into smaller pieces. Instead of trying to build the full 3D scene all at once, I focused on one part at a time, like choosing the main object, deciding which primitive shapes to use, adding supporting objects, applying textures, and then improving the scene with lighting and camera movement. That step-by-step process helped me stay organized and made the project feel less overwhelming. It also showed me that good design does not have to start complicated. It is usually better to start simple, get something working, and then improve it through testing and adjustments.
+
+How do I approach developing programs?
+The biggest development strategy I used was iteration. A lot of the project came down to changing one value, running the scene, and then deciding what still looked wrong. I used that approach when working on object placement, textures, lighting, and camera controls. Over time, my approach to coding became more patient and more structured. Earlier in the course, I mostly cared about just getting the program to run, but by the end I paid more attention to organization, helper functions, and how one change affected the rest of the scene. This project helped me understand that programming is usually a process of building, testing, fixing, and refining instead of getting everything right on the first try.
+
+How can computer science help me in reaching my goals?
+Computational graphics and visualization gave me a better understanding of how programming can be used to create something interactive and visual. Educationally, this project strengthened my skills in problem-solving, debugging, planning, and working through trial and error. Professionally, I can see these skills being useful in software development, interactive systems, visualization, and other technical work that requires organized thinking and user-focused design. Even if I do not work directly in graphics, this project showed me how important it is to combine technical skills with design decisions to create something that actually feels finished.
